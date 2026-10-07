@@ -1,2 +1,1 @@
-# proxyprimer
 # chaos-catalog-library
